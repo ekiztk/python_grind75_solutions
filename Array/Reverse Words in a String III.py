@@ -5,8 +5,9 @@ Summary of the approach:
 3) Move the left index (l) to the next word’s starting position.
 4) Finally, join the reversed words to form the output string.
 """
-
 #Time: 0(n)
+#Memory: 0(n)
+
 class Solution:
     def reverseWords(self, s:str) -> str:
         s = list(s)
