@@ -1,4 +1,6 @@
 """
+Link: https://leetcode.com/problems/majority-element/description/
+
 Summary of the approach:
 This algorithm finds the majority element in a list by counting the occurrences of each number and 
 keeping track of the number with the highest count.

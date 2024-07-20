@@ -1,4 +1,6 @@
 """
+Link: https://leetcode.com/problems/two-sum/description/
+
 Summary of the approach:
 The algorithm uses a dictionary to track indices of previously seen numbers and 
 checks if the complement of the current number (to reach the target) exists in the dictionary, returning the indices if found.
